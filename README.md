@@ -1,2 +1,2 @@
-# Module-3-Coding-Assignment
-Module 3 Coding Assignment
+# module3-solution
+module3-solution
